@@ -39,5 +39,8 @@ body{
     border-radius: 15px;
 }
 .copy-right{
-   
+    text-align: center;
+    margin-top: 150px;
+    color: #a1a1a1;
+    font-size: 15px;
 }
