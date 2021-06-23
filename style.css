@@ -29,10 +29,7 @@ body{
     position: relative;
 }
 .search-btn {
-    position: absolute;
-    top: 0;
-    right: 0;
-    height: 100%;
+    
 }
 .single-result{
     background: rgba(255, 255, 255, 0.2);
